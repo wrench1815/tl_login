@@ -2,9 +2,9 @@
 
 ## Stack
 
-Tailwind CSS with Daisy UI
-Vue 3 with TS
-Axios
+- Tailwind CSS with Daisy UI
+- Vue 3 with TS
+- Axios
 
 ## Setup
 
